@@ -2,4 +2,19 @@ Put ideas here, I'll slowly add ideas brought up in the chat too.
 
 Add a horny bar that forces you to either fuck enemies or get a penalty from masturbating on the go. (maybe search for a stamina mod for a headstart)
 Tie specific animations to items ("if you could figure out how they change the model with heretic you could probably add a transform based on an equation that scales part of the model")
-ANIMATIONS, we need 'em
+ANIMATIONS, we need 'em (doing a main, reusable animation first, then expanding into specialised anims later)
+Items to help with sex or change sex anims. (Collars, BDSM Gear, Whip?)
+her burden integration
+Pick up smaller monsters and fuck them as you go with a movement speed penalty
+Sexable items. (Onahole, Her Burden, Item Waifus?)
+changing certain thematics to imply some level of consensual sex
+how would sex with bosses work?
+unique drops from fucking
+'death' animations where creature claim you as their plaything
+spawn an interactible on enemy death (Spawning an interactible on death may cause clutter from all the bodies on the ground, especially if you don't move around quickly or keep circling back)
+have a fail safe for normal animations
+allow room for mod creators to create custom animations
+make a 'SexMod Prefab' that has everything we need and attach it onto the characters instead of actually like, changing the characters directly
+Unity might have an animation retargeting system plugin somewhere ("Note w/ retargeting it only works with unity "humanoid" skeletons iirc. so if there are ANY extra/missing bones then things get fucky")
+expand on that egg/tentacle mod? (suspicious tentacle?)
+Futa compatibility
