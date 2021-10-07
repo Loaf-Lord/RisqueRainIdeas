@@ -1,0 +1,1525 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>JHallinan</Author>
+  <LastAuthor>Xander Rouse</LastAuthor>
+  <Created>2011-03-15T03:06:41Z</Created>
+  <LastSaved>2021-05-12T05:13:24Z</LastSaved>
+  <Company>Swinburne University of Technology</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8055</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2340577366816">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2340577847056">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2340577847392">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2340577844032">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s23">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Double" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1" ss:Italic="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1" ss:Italic="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s42">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s43">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s44">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Double" ss:Weight="3"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s45">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s46">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s47">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s48">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s53">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s54">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s55">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s56">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s59">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Findings">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="24" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="297.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">System Requirement &#10;(Functional &amp; NonFunctional Requirements) </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">N/F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Delete Book </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Book Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Print Loaned Book Report</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Book From Library</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Loans</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">F</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Use Patrons from Student System</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Different login access for each type of user</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Access via App for Staff and Webapp for Patrons</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">N</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:Index="24">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Now process Functional requirements</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>130</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>22</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Initial">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="22" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="297.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Business Requirement &#10;(Functional Requirement) </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2340577366816"><Data ss:Type="String">Importance Rating </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ease of Realisation </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Final Rating </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Absolute </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Relative </Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s34"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">17-1</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s41"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Delete Book </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Book Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Print Loaned Book Report</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Book From Library</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Loans</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:Index="22">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Now send to stakeholders for Relative rating</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Stage 1 ">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="='Stage 1 '!R4C1:R20C3"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Business Requirement &#10;(Functional Requirement) </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2340577847056"><Data ss:Type="String">Importance Rating </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ease of Realisation </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Final Rating </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Absolute </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Relative </Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeDown="1" ss:StyleID="s59"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">17-1</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">17</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">15</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">14</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">11</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">16</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Reservation</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Print Loaned Book Report</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Delete Book </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Book Information</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Book From Library</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Loans</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Reservation</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s53"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Now sort on Relative then Absolute</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>28</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Stage 2">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:StyleID="s26" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="257.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Business Requirement &#10;(Functional Requirement) </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2340577847392"><Data ss:Type="String">Importance Rating </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ease of Realisation </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Final Rating </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Absolute </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Relative </Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">17-1</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Straight read</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">straight read</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="String">read 1 and create 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">read report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">reads 5 and updates 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">straight read of 3 then report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">1 create with 3 reads</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">read 3 with report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="String">read 3 update 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Book Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">create 2 table entries and reads 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Print Loaned Book Report</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">read 4 tables</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Delete Book </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">delte, read book and current loans</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s54"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">read delete single</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Book From Library</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Loans</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Now sort on Ease of realisation then Relative </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>2</SplitHorizontal>
+   <TopRowBottomPane>2</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Stage 3">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:StyleID="s26" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Business Requirement &#10;(Functional Requirement) </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2340577844032"><Data ss:Type="String">Importance Rating </Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Ease of Realisation </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Final Rating </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Absolute </Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Relative </Data></Cell>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Mandatory items</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">17-1</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">5-10</Data></Cell>
+    <Cell ss:StyleID="s38"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">63</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">54</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s33"><Data ss:Type="String">Optional Items</Data></Cell>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s31"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Book Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Print Loaned Book Report</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Delete Book </Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Reservation</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s54"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Book From Library</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Remove Old Loans</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24" ss:Formula="=RC[-2]*RC[-1]"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Sort on Final Rating then Relative </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>2</SplitHorizontal>
+   <TopRowBottomPane>2</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+     <RangeSelection>R19C5:R25C5</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Final">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="27" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Business Requirement &#10;(Functional Requirement) </Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Final Rating </Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">Mandatory items</Data></Cell>
+    <Cell ss:StyleID="s38"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Search Book Title</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Add New Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Patron</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkin Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Checkout Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Overdue Books</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Update Patron Information</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">63</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Reserve Book</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">View Reservations</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"><Data ss:Type="String">Report Book Titles</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">54</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s23"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s33"><Data ss:Type="String">Optional Items</Data></Cell>
+    <Cell ss:StyleID="s31"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Update Reservation</Data></Cell>
+    <Cell ss:StyleID="s44"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Update Book Information</Data></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Print Loaned Book Report</Data></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Delete Book </Data></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s47"><Data ss:Type="String">Remove Old Reservation</Data></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Remove Book From Library</Data></Cell>
+    <Cell ss:StyleID="s45"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s30"><Data ss:Type="String">Remove Old Loans</Data></Cell>
+    <Cell ss:StyleID="s46"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Note: Sort on Final Rating then Relative </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>2</SplitHorizontal>
+   <TopRowBottomPane>2</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
