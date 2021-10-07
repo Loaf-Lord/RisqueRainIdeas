@@ -1,7 +1,7 @@
 Put ideas here, I'll slowly add ideas brought up in the chat too.
 
 Add a horny bar that forces you to either fuck enemies or get a penalty from masturbating on the go. (maybe search for a stamina mod for a headstart)
-Tie specific animations to items ("if you could figure out how they change the model with heretic you could probably add a transform based on an equation that scales part of the model")
+Tie specific animations/transformations to items ("if you could figure out how they change the model with heretic you could probably add a transform based on an equation that scales part of the model")
 ANIMATIONS, we need 'em (doing a main, reusable animation first, then expanding into specialised anims later)
 Items to help with sex or change sex anims. (Collars, BDSM Gear, Whip?)
 her burden integration
@@ -18,3 +18,9 @@ make a 'SexMod Prefab' that has everything we need and attach it onto the charac
 Unity might have an animation retargeting system plugin somewhere ("Note w/ retargeting it only works with unity "humanoid" skeletons iirc. so if there are ANY extra/missing bones then things get fucky")
 expand on that egg/tentacle mod? (suspicious tentacle?)
 Futa compatibility
+On pregnancy: you have to protect the npc or player for a while until birthing a minion and the minion gets half your items, cloned and half of the other person/npc
+"Does this mod need to be networked so it works in multi-player?" "Probably yes"
+to trigger the animations, shamelessly -s-t-e-a-l- borrow the concept of Aphrodite's bow from starbound
+
+Helpful leads:
+"I mean paladin has dance moves that trigger unique animations"
