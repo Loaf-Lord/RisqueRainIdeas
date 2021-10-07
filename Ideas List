@@ -1,26 +1,35 @@
 Put ideas here, I'll slowly add ideas brought up in the chat too.
 
-Add an arousal bar that forces you to either fuck enemies or get a penalty from masturbating on the go. (maybe search for a stamina mod for a headstart)
-Tie specific animations/transformations to items (growth hormones that increase butt and bust size)
-ANIMATIONS, we need 'em (doing a main, reusable animation first, then expanding into specialised anims later)
-Items to help with sex or change sex anims. (Collars, BDSM Gear, Whip?)
-'Her burden' integration/inclusion with author's permission (The giant dildo)
+ANIMATIONS and MODELS, we need 'em. If I could change the font size here, I would (doing a main, reusable animation first, then expanding into specialised anims later)
+
+Unsorted:
+
+
+
+Core ideas:
+Add an arousal bar that forces you to either fuck enemies or get a penalty from masturbating on the go. (Maybe as a special mode?) (maybe search for a stamina mod for a headstart)
 Pick up smaller monsters and fuck them as you go with a movement speed penalty
+'Death' animations where creature claim you as their plaything
+On pregnancy: you have to protect the npc or player for a while until birthing a minion and the minion gets half your items, cloned and half of the other person/npc
+Spawn an interactible on enemy death (Spawning an interactible on death may cause clutter from all the bodies on the ground, especially if you don't move around quickly or keep circling back) (Using HDOOM as inspiration defeated enemies can be fucked before they despawn)
+
+Item ideas:
+Items to help with sex or change sex anims. (Collars, BDSM Gear, Whip?)
+Tie specific animations/transformations to items (for example growth hormones that increase butt and bust size)
 Sexable items. (Onahole, Her Burden, Item Waifus?)
 Changing certain thematics to imply some level of consensual sex (tri-tipped daggers to viagra(viagra might be an issue due to IP n shizz))
-How would sex with bosses work?
 Unique drops from fucking
-'Death' animations where creature claim you as their plaything
-Spawn an interactible on enemy death (Spawning an interactible on death may cause clutter from all the bodies on the ground, especially if you don't move around quickly or keep circling back) (Using HDOOM as inspiration defeated enemies can be fucked before they despawn)
+
+Misc:
 Have a fail safe for normal animations
 Allow room for mod creators to create custom animations
 Make a 'SexMod Prefab' that has everything we need and attach it onto the characters instead of actually like, changing the characters directly
 Unity might have an animation retargeting system plugin somewhere ("Note w/ retargeting it only works with unity "humanoid" skeletons iirc. so if there are ANY extra/missing bones then things get fucky")
-Expand on that egg/tentacle mod? (suspicious tentacle?)
-Futa and/or Male compatibility (Not necessarily futa on male)
-On pregnancy: you have to protect the npc or player for a while until birthing a minion and the minion gets half your items, cloned and half of the other person/npc
+How would sex with bosses work?
 "Does this mod need to be networked so it works in multi-player?" "Probably yes"
-
+Giver (Futa and/or Male) compatibility? (Not necessarily futa on male)
+Expand on that egg/tentacle mod? (suspicious tentacle?)
+'Her burden' integration/inclusion with author's permission (The giant dildo)
 
 Helpful leads:
 "I mean paladin has dance moves that trigger unique animations"
