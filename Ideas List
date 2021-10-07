@@ -35,3 +35,12 @@ Helpful leads:
 "I mean paladin has dance moves that trigger unique animations"
 "If you could figure out how they change the model with heretic you could probably add a transform based on an equation that scales part of the model"
 "To trigger the animations, shamelessly -s-t-e-a-l- borrow the concept of Aphrodite's bow from starbound"
+"We can use debug toolkit to test the framework without thinking about combat yet"
+
+Potential end state (1, 3, 4, 5 can take shortcuts to improve release time):
+1. Overhaul the combat system
+2. Incorporate a state system that allows for "interaction" with every valid 'target'
+3. Overhaul the item system
+4. Replace models with new animations and 'features'
+5. Account for new control schemes based on the state system
+6. Account for scripted events and potentially game-breaking interactions
