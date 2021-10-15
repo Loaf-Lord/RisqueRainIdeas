@@ -37,6 +37,7 @@ Helpful leads:
 "If you could figure out how they change the model with heretic you could probably add a transform based on an equation that scales part of the model"
 "To trigger the animations, shamelessly -s-t-e-a-l- borrow the concept of Aphrodite's bow from starbound"
 "We can use debug toolkit to test the framework without thinking about combat yet"
+https://thunderstore.io/package/Bubbet/FullPrefabSkins/?utm_source=discord "Basic female skeleton when in anim and character specific out of it or have a seperate anim for stripping before sex to a full model change. Could cut down on production time as you only would need to model to one female skeleton and map the other characters to said skeleton" 
 
 Potential end state (1, 3, 4, 5 can take shortcuts to improve release time):
 1. Overhaul the combat system
